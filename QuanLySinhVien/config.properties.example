@@ -1,0 +1,7 @@
+db.host=localhost
+db.port=1433
+db.name=QuanLySinhVienDB
+db.user=sa
+db.password=YourStrongPassword
+db.encrypt=true
+db.trustServerCertificate=true
